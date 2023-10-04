@@ -21,9 +21,9 @@ I have a strong background in Kubernetes, and I'm dedicated to continuous learni
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/kaisbouafif)
 
 ## 📊 GitHub Stats
-
+```
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaisbouafif&show_icons=true)]
-
+```md
 Feel free to explore my repositories for more projects and contributions.
 
 Thanks for stopping by! Let's connect and collaborate on exciting projects together.
