@@ -18,7 +18,7 @@ I have a strong background in Kubernetes, and I'm dedicated to continuous learni
 
 ## 📫 How to Reach Me
 ```
-- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/kaisbouafif)
+[My LinkedIn Profile](https://linkedin.com/in/kaisbouafif)
 
 ```md
 
