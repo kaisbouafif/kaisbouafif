@@ -40,7 +40,7 @@ I occasionally write technical blog posts and speak at conferences. Here are som
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats] (https://github-readme-stats.vercel.app/api?username=kaisbouafif&show_icons=true\&count_private=true)]
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaisbouafif&show_icons=true\&count_private=true)]
 
 ## 🛠️ Projects
 
