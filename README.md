@@ -38,10 +38,14 @@ I occasionally write technical blog posts and speak at conferences. Here are som
 
 - LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/kaisbouafif)
 
+
+
 ## 📊 GitHub Stats
-
+```
+```md
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaisbouafif&show_icons=true\&count_private=true)]
-
+```
+```md
 ## 🛠️ Projects
 
 Here are some of the open-source projects I've contributed to:
