@@ -6,7 +6,7 @@ I'm a DevOps and Cloud Engineer with a passion for automating, optimizing, and s
 ## 🔧 Technologies and Tools
 
 - DevOps:  Docker, Kubernetes, Jenkins
-- Cloud: [List cloud platforms, e.g., AWS, Azure, GCP]
+- Cloud: [GCP]
 - Scripting/Programming: [List languages, e.g., Python, Bash, PowerShell]
 - Configuration Management: [List tools, e.g., Ansible, Puppet, Chef]
 - Monitoring and Logging: [List tools, e.g., Prometheus, ELK Stack, Grafana]
@@ -37,12 +37,12 @@ I occasionally write technical blog posts and speak at conferences. Here are som
 ## 📫 How to Reach Me
 
 - LinkedIn: [Your LinkedIn Profile](LinkedIn Profile URL)
-- Twitter: [@YourTwitterHandle](Twitter Profile URL)
-- Email: [Your Email Address](mailto:youremail@example.com)
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaisbouafif&show_icons=true&count_private=true)](https://github.com/kaisbouafif)
+[Your GitHub Stats]
+(https://github-readme-stats.vercel.app/api?username=kaisbouafif&show_icons=true&count_private=true)
+(https://github.com/kaisbouafif)
 
 ## 🛠️ Projects
 
