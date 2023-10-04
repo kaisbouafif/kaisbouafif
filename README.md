@@ -25,6 +25,14 @@ I have a strong background in Kubernetes, and I'm dedicated to continuous learni
 ## 📊 GitHub Stats
 ```
 [![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaisbouafif&show_icons=true)]
+
+
+```md
+## 📊 Language Used
+```
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaisbouafif&layout=compact)
+
 ```md
 Feel free to explore my repositories for more projects and contributions.
 
