@@ -36,7 +36,7 @@ I occasionally write technical blog posts and speak at conferences. Here are som
 
 ## 📫 How to Reach Me
 
-- LinkedIn: [Your LinkedIn Profile](LinkedIn Profile URL)
+- LinkedIn: [Your LinkedIn Profile](https://linkedin.com/in/kaisbouafif)
 
 ## 📊 GitHub Stats
 
