@@ -2,8 +2,8 @@
 # Hello, I'm Kais Bouafif 👋
 
 ```markdown
-I'm a DevOps and Cloud Engineer with a passion for automating, optimizing, and scaling
-infrastructure to deliver robust and efficient solutions. 
+I'm a DevOps and Cloud Engineer with a passion for automating, optimizing,
+and scaling infrastructure to deliver robust and efficient solutions. 
 I have a strong background in Kubernetes, and I'm dedicated to continuous
 learning and staying up-to-date with industry trends.
 ```
@@ -15,6 +15,7 @@ learning and staying up-to-date with industry trends.
 - Scripting/Programming:  Python, Bash, PowerShell ,Java, PHP
 - Monitoring and Logging:  Prometheus, ELK Stack, Grafana ,LongHorn ,Kiali , Datadog
 - Infrastructure as Code (IaC): Terraform
+- Operating System: Linux, Windows
 - CI/CD: GitHub Actions , ArgoCD
 - Secret Manager: Vault
 - Backup: Velero , Kasten
